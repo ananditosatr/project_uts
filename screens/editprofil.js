@@ -23,7 +23,7 @@ const Editprofile = ({ navigation }) => {
             <Input placeholder="Masukan Username"></Input>
             <Text bold>Email</Text>
             <Input placeholder="Masukan Email"></Input>
-            <Text bold>Phone Number</Text>
+            <Text bold>Phone Numbers</Text>
             <Input placeholder="Masukan Phone Number"></Input>
             <Text bold>Passwords</Text>
             <Input placeholder="Masukan Password"></Input>
