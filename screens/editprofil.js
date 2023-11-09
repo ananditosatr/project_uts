@@ -25,7 +25,7 @@ const Editprofile = ({ navigation }) => {
             <Input placeholder="Masukan Email"></Input>
             <Text bold>Phone Number</Text>
             <Input placeholder="Masukan Phone Number"></Input>
-            <Text bold>Password</Text>
+            <Text bold>Passwords</Text>
             <Input placeholder="Masukan Password"></Input>
             <Button onPress={Profile} mt={7}>
               {" "}
